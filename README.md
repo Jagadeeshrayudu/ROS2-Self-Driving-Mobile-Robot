@@ -1,4 +1,4 @@
-# Self-Driving Robot with ROS 2: Odometry & Control
+# Self-Driving Robot with ROS 2
 
 This project demonstrates how to build and simulate a self-driving robot using **ROS 2**, focusing on **odometry**, **sensor fusion**, and **control systems**. It is intended for robotics enthusiasts and developers who want to gain hands-on experience with robot localization and motion.
 
